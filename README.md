@@ -1,16 +1,57 @@
 ### Hi there 👋
 
-<!--
-**rai62/rai62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 I’m a student majoring in Computer Science at Ritsumeikan University in Japan.
+- 😆 I’m passionate about learning and developing skills in backend infrastructure!
+- 💬 Please feel free to contact me!
 
-Here are some ideas to get you started:
+<picture>
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rai62&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rai62&theme=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rai62&theme=github" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<picture>
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rai62&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rai62&theme=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rai62&theme=github" />
+</picture>
+
+<picture>
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rai62&theme=github_dark&utcOffset=9"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rai62&theme=github&utcOffset=9"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rai62&theme=github&utcOffset=9" />
+</picture>
+
+<br />
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rai62&exclude_repo=homebrew-screanswer&size_weight=0.5&count_weight=0.5&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rai62&exclude_repo=homebrew-screanswer&size_weight=0.5&count_weight=0.5&theme=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai62&exclude_repo=homebrew-screanswer&size_weight=0.5&count_weight=0.5&theme=github" />
+</picture>
