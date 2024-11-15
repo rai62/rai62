@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏫 I’m a student majoring in Computer Science at Ritsumeikan University in Japan.
+- 🏫 I’m a student majoring in computer science at Ritsumeikan University in Japan.
 - 😆 I’m passionate about learning and developing skills in backend infrastructure!
 - 💬 Please feel free to contact me!
 
