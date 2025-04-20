@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🏫 I’m a student majoring in computer science at Ritsumeikan University in Japan.
-- 😆 I’m passionate about learning and developing skills in backend infrastructure!
+- ☁️ I'm a Cloud Support Engineer at Amazon Web Services Canada, recently relocated from Japan.
+- 😆 I’m passionate about learning and developing my skills in backend infrastructure!
 - 💬 Please feel free to contact me!
 
 <picture>
@@ -32,14 +32,14 @@
 
 <picture>
   <source
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rai62&theme=github_dark&utcOffset=9"
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rai62&theme=github_dark&utcOffset=-5"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rai62&theme=github&utcOffset=9"
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rai62&theme=github&utcOffset=-5"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rai62&theme=github&utcOffset=9" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rai62&theme=github&utcOffset=-5" />
 </picture>
 
 <br />
